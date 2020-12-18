@@ -1,0 +1,2 @@
+# MMG
+multidimensional map generator
